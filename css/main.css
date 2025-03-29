@@ -1,0 +1,50 @@
+/* General styling */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* Stile per il bottone "Torna alla lista dei tutorial" */
+.back-btn {
+    display: inline-block;
+    background-color: #007bff; /* Colore blu */
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.back-btn:hover {
+    background-color: #0056b3; /* Blu scuro al passaggio del mouse */
+    transform: translateY(-2px); /* Leggero sollevamento quando si passa sopra */
+}
+
+.back-btn:focus {
+    outline: none; /* Rimuove il bordo di focus predefinito */
+}

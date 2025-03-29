@@ -1,0 +1,36 @@
+/* Header and footer */
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1, footer h1 {
+    color: #ffffff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer {
+    font-size: 14px;
+}
+
+/* Header and footer links */
+header a, footer a {
+    color: #FFD700; /* Gold color for links */
+    text-decoration: none;
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline;
+}
