@@ -8,6 +8,7 @@ Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggett
 Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
 Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
 File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.webp
+File Explorer,"Il programma che permette di vedere i file e le cartelle del computer, per trovare, aprire, copiare o spostare quello che c'è nel pc.", 0.3,images/file-explorer.webp
 Rotellina del mouse,"Una parte del mouse che si gira per scorrere le pagine o anche per fare lo zoom (insieme al tasto CTRL).",0.3,images/wheel.webp
 Cartella,"Un posto dove si possono mettere i file nel computer, per trovarli facilmente quando servono.",0.2,images/5.webp
 Smartphone,"Telefono che può fare molte cose simili a quelle di un computer, come navigare su internet, fare videochiamate o usare app.",0.4,images/6.webp
