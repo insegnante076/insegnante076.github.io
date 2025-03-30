@@ -49,7 +49,7 @@ Shift,"Un tasto che permette di scrivere lettere maiuscole o inserire altri simb
 Spazio,"Un tasto che inserisce uno spazio tra le parole quando si scrive.",0.3,images/spacebar.webp
 Scorciatoie (Shortcuts),"Combinazioni di tasti che permettono di eseguire rapidamente azioni, come copiare, incollare o salvare un file.",0.3,images/shortcuts.webp
 Ctrl,"Un tasto usato insieme ad altri per eseguire scorciatoie, come copiare, incollare, annullare.",0.3,images/ctrl.webp
-Cursore,"Una freccia o un simbolo che mostra la posizione del mouse o dove si sta digitando su uno schermo.",0.3,images/cursor.gif
+Cursore,"Un simbolo che mostra la posizione del mouse o dove si sta digitando su uno schermo.",0.3,images/cursor.gif
 Frecce,"I tasti che permettono di muovere il cursore su, giù, a sinistra o a destra.",0.3,images/arrow-keys.webp
 Backspace,"Un tasto che cancella il carattere a sinistra del cursore.",0.3,images/backspace.webp
 Caps Lock,"Un tasto che attiva o disattiva la scrittura di lettere maiuscole senza tenere premuto Shift.",0.3,images/caps-lock.webp
