@@ -1,22 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const vocabularyList = document.getElementById('vocabulary-list');
     const paginationContainers = document.querySelectorAll('.pagination');
-    const perPage = 6;
+    const perPage = 10;
     let currentPage = 1;
     let vocabularyData = [];
     let totalPages = 0;
-
-    // Create modal structure
-    const modal = document.createElement('div');
-    modal.id = 'image-modal';
-    modal.classList.add('modal');
-    modal.innerHTML = `
-        <div class="modal-content">
-            <span id="close-modal" class="close-btn">&times;</span>
-            <img id="modal-image" src="" alt="Large view of image" />
-        </div>
-    `;
-    document.body.appendChild(modal);
 
     // Load and parse CSV
     Papa.parse('vocabulary.csv', {
@@ -54,16 +42,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             vocabularyList.appendChild(termCard);
-        });
-
-        // Add image click listener for lightbox functionality
-        const images = document.querySelectorAll('.vocabulary-image');
-        images.forEach(img => {
-            img.addEventListener('click', function () {
-                const modalImage = document.getElementById('modal-image');
-                modalImage.src = this.src;
-                modal.style.display = 'block';
-            });
         });
     }
 
@@ -104,19 +82,6 @@ document.addEventListener('DOMContentLoaded', () => {
     
         return button;
     } 
-
-    // Close the modal when the close button is clicked
-    const closeModal = document.getElementById('close-modal');
-    closeModal.addEventListener('click', () => {
-        modal.style.display = 'none';
-    });
-
-    // Close the modal when clicked outside the image
-    window.addEventListener('click', (event) => {
-        if (event.target === modal) {
-            modal.style.display = 'none';
-        }
-    });
 
     // Initial render
     renderPage(currentPage);
