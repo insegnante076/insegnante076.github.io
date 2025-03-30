@@ -1,50 +1,50 @@
 word,meaning,skill_level,image_path
-Hardware,"Le parti fisiche di un computer. Esempio: la tastiera, lo schermo e il mouse",0.2,images/0.jpg
-Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.jpg
-Desktop,"La schermata principale del computer, dove si trovano le icone per aprire programmi, cartelle e file.",0.3,images/2.jpg
-Icona,"Un piccolo simbolo che rappresenta un programma, un file o una funzione nel dispositivo.",0.2,images/3.jpg
+Hardware,"Le parti fisiche di un computer. Esempio: la tastiera, lo schermo e il mouse",0.2,images/0.webp
+Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.webp
+Desktop,"La schermata principale del computer, dove si trovano le icone per aprire programmi, cartelle e file.",0.3,images/2.webp
+Icona,"Un piccolo simbolo che rappresenta un programma, un file o una funzione nel dispositivo.",0.2,images/3.webp
 Zoom,"Serve per ingrandire o rimpicciolire qualcosa: una pagina, una immagine, ecc.",0.3,images/zoom.gif
 Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggetti, aprire, trascinare.",0.3,images/left-click.webp
 Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
 Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
-File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.jpg
+File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.webp
 Rotellina del mouse,"Una parte del mouse che si gira per scorrere le pagine o anche per fare lo zoom (insieme al tasto CTRL).",0.3,images/wheel.webp
-Cartella,"Un posto dove si possono mettere i file nel computer, per trovarli facilmente quando servono.",0.2,images/5.jpg
-Smartphone,"Telefono che può fare molte cose simili a quelle di un computer, come navigare su internet, fare videochiamate o usare app.",0.4,images/6.jpg
-Tablet,"Dispositivo portatile (simile allo smartphone, ma con uno schermo grande) per usare app, navigare su internet, e fare altre cose come un computer.",0.4,images/7.jpg
-Finestra,"Una parte dello schermo dove viene visualizzato un programma o un file.",0.3,images/8.jpg
+Cartella,"Un posto dove si possono mettere i file nel computer, per trovarli facilmente quando servono.",0.2,images/5.webp
+Smartphone,"Telefono che può fare molte cose simili a quelle di un computer, come navigare su internet, fare videochiamate o usare app.",0.4,images/6.webp
+Tablet,"Dispositivo portatile (simile allo smartphone, ma con uno schermo grande) per usare app, navigare su internet, e fare altre cose come un computer.",0.4,images/7.webp
+Finestra,"Una parte dello schermo dove viene visualizzato un programma o un file.",0.3,images/8.webp
 Start,"Un tasto che apre il menu principale del computer per aprire programmi e impostazioni.",0.3,images/start.webp
 Invio,"Un tasto che permette di confermare un'azione. Quando scriviamo serve per andare a capo.",0.3,images/enter.webp
-Internet,"Una rete che collega milioni di dispositivi in tutto il mondo e permette di scambiare informazioni, come leggere notizie o guardare video.",0.5,images/9.jpg
-Browser,"Un programma che ti permette di navigare su internet e vedere siti web. 'Google Chrome', 'Firefox', 'Edge' sono dei browser.",0.4,images/10.jpg
-Sito web,"Un insieme di pagine che puoi visitare su internet, ad esempio un negozio online o un blog.",0.3,images/11.jpg
-Homepage / Home,"La pagina principale di un sito web o di un'app, che di solito contiene i collegamenti alle altre sezioni.",0.3,images/45.jpg
-Barra degli indirizzi,"La parte di una finestra che ci dice dove ci troviamo. Possiamo anche scriverci sopra, per spostarci in un altro punto",0.4,images/12.jpg
-Motore di ricerca,"Un sito web che ti aiuta a trovare informazioni su internet. Il più famoso è Google, ma ce ne sono anche altri",0.5,images/13.jpg
-Scheda (tab),"Una parte della finestra di un programma (come un browser) che ti permette di aprire più pagine contemporaneamente.",0.4,images/tab.jpg
-Wi-Fi,"Una tecnologia che permette di connettersi a internet senza usare fili, tramite onde radio.",0.4,images/14.jpg
-Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisione non è touchscreen. Uno smartphone sì.",0.3,images/15.jpg
-Copiare,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.jpg
-Incollare,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.jpg
+Internet,"Una rete che collega milioni di dispositivi in tutto il mondo e permette di scambiare informazioni, come leggere notizie o guardare video.",0.5,images/9.webp
+Browser,"Un programma che ti permette di navigare su internet e vedere siti web. 'Google Chrome', 'Firefox', 'Edge' sono dei browser.",0.4,images/10.webp
+Sito web,"Un insieme di pagine che puoi visitare su internet, ad esempio un negozio online o un blog.",0.3,images/11.webp
+Homepage / Home,"La pagina principale di un sito web o di un'app, che di solito contiene i collegamenti alle altre sezioni.",0.3,images/45.webp
+Barra degli indirizzi,"La parte di una finestra che ci dice dove ci troviamo. Possiamo anche scriverci sopra, per spostarci in un altro punto",0.4,images/12.webp
+Motore di ricerca,"Un sito web che ti aiuta a trovare informazioni su internet. Il più famoso è Google, ma ce ne sono anche altri",0.5,images/13.webp
+Scheda (tab),"Una parte della finestra di un programma (come un browser) che ti permette di aprire più pagine contemporaneamente.",0.4,images/tab.webp
+Wi-Fi,"Una tecnologia che permette di connettersi a internet senza usare fili, tramite onde radio.",0.4,images/14.webp
+Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisione non è touchscreen. Uno smartphone sì.",0.3,images/15.webp
+Copiare,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.webp
+Incollare,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.webp
 Drag and Drop (trascinare),"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
-Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.jpg
-Social Media,"Siti web dove puoi condividere foto, video e messaggi con altre persone (es. Facebook, Instagram).",0.5,images/19.jpg
-Password,"Una parola che viene chiesta per accedere ad un account. Solo il proprietario dell'account deve saperla! Inoltre deve essere difficile per non essere scoperta",0.5,images/20.jpg
-App (Applicazione),"Un programma (software) che usi su telefono per fare qualcosa di specifico (es. Whatsapp, Calendario, YouTube, Calcolatrice)",0.4,images/21.jpg
-Smartwatch,"Orologio che può connettersi a internet o al telefono per fare cose, come leggere messaggi o contare i passi.",0.5,images/22.jpg
-Scorrimento (scrolling),"Muovere il dito su uno schermo o usare il mouse (con la rotellina) per spostarsi nella pagina.",0.3,images/23.jpg
-Notifiche,"Messaggi che appaiono sullo schermo per informarti su eventi o aggiornamenti.",0.3,images/24.jpg
-Webcam,"Fotocamera che permette di fare videochiamate (es. Google Meet) o di registrare video",0.4,images/25.jpg
-Cuffie,"Dispositivi che permettono di ascoltare suoni senza disturbare gli altri.",0.3,images/26.jpg
-Bluetooth,"Tecnologia che permette di connettere dispositivi senza fili, come auricolari o tastiere",0.4,images/27.jpg
-Wireless,"Tecnologia che permette di inviare dati senza usare fili. Ad esempio il Wi-Fi o il Bluetooth.",0.4,images/28.jpg
-Dispositivo (device),"Un oggetto elettronico (un telefono, un computer, un tablet, uno smartwatch, etc.) che usi per accedere a internet o fare altre attività digitali",0.3,images/29.jpg
-Microfono,"Dispositivo che cattura i suoni.",0.3,images/30.jpg
-Condivisione (share),"Funzione che ti permette di inviare file, foto o link ad altri.",0.3,images/31.jpg
-Geolocalizzazione,"Tecnologia che permette di sapere dove ci troviamo.",0.5,images/32.jpg
-Download (scaricare),"Scaricare un file da Internet al tuo dispositivo.",0.3,images/33.jpg
-Upload (caricare),"Caricare un file dal tuo dispositivo su Internet.",0.3,images/34.jpg
-Hotspot Wi-Fi,"Funzione che crea una rete Wi-Fi per condividere la connessione internet con altri dispositivi. Così gli altri che non hanno internet con la loro SIM card, possono usare la tua connessione.",0.5,images/35.jpg
+Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.webp
+Social Media,"Siti web dove puoi condividere foto, video e messaggi con altre persone (es. Facebook, Instagram).",0.5,images/19.webp
+Password,"Una parola che viene chiesta per accedere ad un account. Solo il proprietario dell'account deve saperla! Inoltre deve essere difficile per non essere scoperta",0.5,images/20.webp
+App (Applicazione),"Un programma (software) che usi su telefono per fare qualcosa di specifico (es. Whatsapp, Calendario, YouTube, Calcolatrice)",0.4,images/21.webp
+Smartwatch,"Orologio che può connettersi a internet o al telefono per fare cose, come leggere messaggi o contare i passi.",0.5,images/22.webp
+Scorrimento (scrolling),"Muovere il dito su uno schermo o usare il mouse (con la rotellina) per spostarsi nella pagina.",0.3,images/23.webp
+Notifiche,"Messaggi che appaiono sullo schermo per informarti su eventi o aggiornamenti.",0.3,images/24.webp
+Webcam,"Fotocamera che permette di fare videochiamate (es. Google Meet) o di registrare video",0.4,images/25.webp
+Cuffie,"Dispositivi che permettono di ascoltare suoni senza disturbare gli altri.",0.3,images/26.webp
+Bluetooth,"Tecnologia che permette di connettere dispositivi senza fili, come auricolari o tastiere",0.4,images/27.webp
+Wireless,"Tecnologia che permette di inviare dati senza usare fili. Ad esempio il Wi-Fi o il Bluetooth.",0.4,images/28.webp
+Dispositivo (device),"Un oggetto elettronico (un telefono, un computer, un tablet, uno smartwatch, etc.) che usi per accedere a internet o fare altre attività digitali",0.3,images/29.webp
+Microfono,"Dispositivo che cattura i suoni.",0.3,images/30.webp
+Condivisione (share),"Funzione che ti permette di inviare file, foto o link ad altri.",0.3,images/31.webp
+Geolocalizzazione,"Tecnologia che permette di sapere dove ci troviamo.",0.5,images/32.webp
+Download (scaricare),"Scaricare un file da Internet al tuo dispositivo.",0.3,images/33.webp
+Upload (caricare),"Caricare un file dal tuo dispositivo su Internet.",0.3,images/34.webp
+Hotspot Wi-Fi,"Funzione che crea una rete Wi-Fi per condividere la connessione internet con altri dispositivi. Così gli altri che non hanno internet con la loro SIM card, possono usare la tua connessione.",0.5,images/35.webp
 Shift,"Un tasto che permette di scrivere lettere maiuscole o inserire altri simboli.",0.3,images/shift.webp
 Spazio,"Un tasto che inserisce uno spazio tra le parole quando si scrive.",0.3,images/spacebar.webp
 Scorciatoie (Shortcuts),"Combinazioni di tasti che permettono di eseguire rapidamente azioni, come copiare, incollare o salvare un file.",0.3,images/shortcuts.webp
@@ -53,14 +53,14 @@ Cursore,"Una freccia o un simbolo che mostra la posizione del mouse o dove si st
 Frecce,"I tasti che permettono di muovere il cursore su, giù, a sinistra o a destra.",0.3,images/arrow-keys.webp
 Backspace,"Un tasto che cancella il carattere a sinistra del cursore.",0.3,images/backspace.webp
 Caps Lock,"Un tasto che attiva o disattiva la scrittura di lettere maiuscole senza tenere premuto Shift.",0.3,images/caps-lock.webp
-QR code,"Un codice che puoi scansionare con il telefono per accedere a informazioni o a una pagina web.",0.4,images/36.jpg
-Screenshot,"Immagine dello schermo che si scatta per salvare o condividere quello che vedi.",0.4,images/37.jpg
-Account,"Un profilo che crei su un sito web per poter usare i suoi servizi. Ad esempio, per usare Facebook, devi avere un account con il tuo nome e una password.",0.3,images/account.jpg
-Registrazione (sign up),"Serve per creare un nuovo account su un sito o un'app. Normalmente viene chiesto di inserire nome, email e password.",0.4,images/38.jpg
-Link,"Un collegamento che ti porta a un'altra pagina web o risorsa online.",0.3,images/39.jpg
-Login,"Serve per accedere a un sito o a un'app dove hai già effettuato la registrazione.",0.4,images/40.jpg
-Logout,"Serve per uscire da un sito o un'app, quando non vuoi più essere connesso al tuo account. È importante fare il logout quando usiamo il device di qualcun altro, altrimenti gli altri possono continuare a fare delle cose sul nostro account",0.5,images/41.jpg
-App Store / Play Store,"Sono le app dove puoi scaricare le altre app.",0.3,images/42.jpg
-Aggiornamento (update),"Installare una nuova versione di un'app o software. A volte bisogna farlo per aprire l'app.",0.4,images/43.jpg
-Tutorial,"Una guida passo-passo che insegna come fare qualcosa, come usare un programma o una funzione.",0.4,images/44.jpg
-Truffa online (scam),"Quando qualcuno cerca di ingannarti su internet per rubare i tuoi soldi o le tue informazioni. Esempio: Ricevi un sms con un link, che sembra venire dalla tua banca, ma in realtà è un trucco per farti perdere soldi",0.5,images/scam.jpg
+QR code,"Un codice che puoi scansionare con il telefono per accedere a informazioni o a una pagina web.",0.4,images/36.webp
+Screenshot,"Immagine dello schermo che si scatta per salvare o condividere quello che vedi.",0.4,images/37.webp
+Account,"Un profilo che crei su un sito web per poter usare i suoi servizi. Ad esempio, per usare Facebook, devi avere un account con il tuo nome e una password.",0.3,images/account.webp
+Registrazione (sign up),"Serve per creare un nuovo account su un sito o un'app. Normalmente viene chiesto di inserire nome, email e password.",0.4,images/38.webp
+Link,"Un collegamento che ti porta a un'altra pagina web o risorsa online.",0.3,images/39.webp
+Login,"Serve per accedere a un sito o a un'app dove hai già effettuato la registrazione.",0.4,images/40.webp
+Logout,"Serve per uscire da un sito o un'app, quando non vuoi più essere connesso al tuo account. È importante fare il logout quando usiamo il device di qualcun altro, altrimenti gli altri possono continuare a fare delle cose sul nostro account",0.5,images/41.webp
+App Store / Play Store,"Sono le app dove puoi scaricare le altre app.",0.3,images/42.webp
+Aggiornamento (update),"Installare una nuova versione di un'app o software. A volte bisogna farlo per aprire l'app.",0.4,images/43.webp
+Tutorial,"Una guida passo-passo che insegna come fare qualcosa, come usare un programma o una funzione.",0.4,images/44.webp
+Truffa online (scam),"Quando qualcuno cerca di ingannarti su internet per rubare i tuoi soldi o le tue informazioni. Esempio: Ricevi un sms con un link, che sembra venire dalla tua banca, ma in realtà è un trucco per farti perdere soldi",0.5,images/scam.webp
