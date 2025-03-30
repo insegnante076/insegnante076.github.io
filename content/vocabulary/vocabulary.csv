@@ -1,13 +1,20 @@
 word,meaning,skill_level,image_path
 Hardware,"Le parti fisiche di un computer. Esempio: la tastiera, lo schermo e il mouse",0.2,images/0.jpg
-Software,"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.jpg
+Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.jpg
 Desktop,"La schermata principale del computer, dove si trovano le icone per aprire programmi, cartelle e file.",0.3,images/2.jpg
 Icona,"Un piccolo simbolo che rappresenta un programma, un file o una funzione nel dispositivo.",0.2,images/3.jpg
+Zoom,"Serve per ingrandire o rimpicciolire qualcosa: una pagina, una immagine, ecc.",0.3,images/zoom.gif
+Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggetti, aprire, trascinare.",0.3,images/left-click.webp
+Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
+Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
 File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.jpg
+Rotellina del mouse,"Una parte del mouse che si gira per scorrere le pagine o anche per fare lo zoom (insieme al tasto CTRL).",0.3,images/wheel.webp
 Cartella,"Un posto dove si possono mettere i file nel computer, per trovarli facilmente quando servono.",0.2,images/5.jpg
 Smartphone,"Telefono che può fare molte cose simili a quelle di un computer, come navigare su internet, fare videochiamate o usare app.",0.4,images/6.jpg
 Tablet,"Dispositivo portatile (simile allo smartphone, ma con uno schermo grande) per usare app, navigare su internet, e fare altre cose come un computer.",0.4,images/7.jpg
 Finestra,"Una parte dello schermo dove viene visualizzato un programma o un file.",0.3,images/8.jpg
+Start,"Un tasto che apre il menu principale del computer per aprire programmi e impostazioni.",0.3,images/start.webp
+Invio,"Un tasto che permette di confermare un'azione. Quando scriviamo serve per andare a capo.",0.3,images/enter.webp
 Internet,"Una rete che collega milioni di dispositivi in tutto il mondo e permette di scambiare informazioni, come leggere notizie o guardare video.",0.5,images/9.jpg
 Browser,"Un programma che ti permette di navigare su internet e vedere siti web. 'Google Chrome', 'Firefox', 'Edge' sono dei browser.",0.4,images/10.jpg
 Sito web,"Un insieme di pagine che puoi visitare su internet, ad esempio un negozio online o un blog.",0.3,images/11.jpg
@@ -19,7 +26,7 @@ Wi-Fi,"Una tecnologia che permette di connettersi a internet senza usare fili, t
 Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisione non è touchscreen. Uno smartphone sì.",0.3,images/15.jpg
 Copiare,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.jpg
 Incollare,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.jpg
-Drag and Drop,"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
+Drag and Drop (trascinare),"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
 Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.jpg
 Social Media,"Siti web dove puoi condividere foto, video e messaggi con altre persone (es. Facebook, Instagram).",0.5,images/19.jpg
 Password,"Una parola che viene chiesta per accedere ad un account. Solo il proprietario dell'account deve saperla! Inoltre deve essere difficile per non essere scoperta",0.5,images/20.jpg
@@ -38,6 +45,14 @@ Geolocalizzazione,"Tecnologia che permette di sapere dove ci troviamo.",0.5,imag
 Download (scaricare),"Scaricare un file da Internet al tuo dispositivo.",0.3,images/33.jpg
 Upload (caricare),"Caricare un file dal tuo dispositivo su Internet.",0.3,images/34.jpg
 Hotspot Wi-Fi,"Funzione che crea una rete Wi-Fi per condividere la connessione internet con altri dispositivi. Così gli altri che non hanno internet con la loro SIM card, possono usare la tua connessione.",0.5,images/35.jpg
+Shift,"Un tasto che permette di scrivere lettere maiuscole o inserire altri simboli.",0.3,images/shift.webp
+Spazio,"Un tasto che inserisce uno spazio tra le parole quando si scrive.",0.3,images/spacebar.webp
+Scorciatoie (Shortcuts),"Combinazioni di tasti che permettono di eseguire rapidamente azioni, come copiare, incollare o salvare un file.",0.3,images/shortcuts.webp
+Ctrl,"Un tasto usato insieme ad altri per eseguire scorciatoie, come copiare, incollare, annullare.",0.3,images/ctrl.webp
+Cursore,"Una freccia o un simbolo che mostra la posizione del mouse o dove si sta digitando su uno schermo.",0.3,images/cursor.gif
+Frecce,"I tasti che permettono di muovere il cursore su, giù, a sinistra o a destra.",0.3,images/arrow-keys.webp
+Backspace,"Un tasto che cancella il carattere a sinistra del cursore.",0.3,images/backspace.webp
+Caps Lock,"Un tasto che attiva o disattiva la scrittura di lettere maiuscole senza tenere premuto Shift.",0.3,images/caps-lock.webp
 QR code,"Un codice che puoi scansionare con il telefono per accedere a informazioni o a una pagina web.",0.4,images/36.jpg
 Screenshot,"Immagine dello schermo che si scatta per salvare o condividere quello che vedi.",0.4,images/37.jpg
 Account,"Un profilo che crei su un sito web per poter usare i suoi servizi. Ad esempio, per usare Facebook, devi avere un account con il tuo nome e una password.",0.3,images/account.jpg
