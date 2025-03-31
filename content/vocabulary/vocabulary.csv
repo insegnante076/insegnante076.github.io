@@ -1,6 +1,4 @@
 word,meaning,skill_level,image_path
-Hardware,"Le parti fisiche di un computer. Esempio: la tastiera, lo schermo e il mouse",0.2,images/0.webp
-Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.webp
 Desktop,"La schermata principale del computer, dove si trovano le icone per aprire programmi, cartelle e file.",0.3,images/2.webp
 Icona,"Un piccolo simbolo che rappresenta un programma, un file o una funzione nel dispositivo.",0.2,images/3.webp
 Zoom,"Serve per ingrandire o rimpicciolire qualcosa: una pagina, una immagine, ecc.",0.3,images/zoom.gif
@@ -28,6 +26,7 @@ Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisio
 Copiare,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.webp
 Incollare,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.webp
 Drag and Drop (trascinare),"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
+Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.webp
 Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.webp
 Social Media,"Siti web dove puoi condividere foto, video e messaggi con altre persone (es. Facebook, Instagram).",0.5,images/19.webp
 Password,"Una parola che viene chiesta per accedere ad un account. Solo il proprietario dell'account deve saperla! Inoltre deve essere difficile per non essere scoperta",0.5,images/20.webp
@@ -73,6 +72,7 @@ Modalità aereo,"Funzione che spegne tutte le connessioni senza fili (Wi-Fi, Blu
 Gestione della memoria,"Strumenti per vedere e liberare spazio sul dispositivo, eliminando file inutili.",,
 Cronologia,"Elenco delle pagine web che hai visitato, che viene salvato dal browser per permetterti di ritrovare facilmente i siti visitati in passato.",,
 Modalità notturna,Impostazione che cambia la luce dello schermo per renderlo più comodo di notte.,,
+Hardware,"Le parti fisiche di un computer. Esempio: la tastiera, lo schermo e il mouse",0.2,images/0.webp
 Intelligenza artificiale (IA),"Una tecnologia che insegna ai computer a ""pensare"" e imparare dai dati per prendere decisioni o risolvere problemi",,
 Virus,"Un tipo di programma dannoso che può infettare il dispositivo, danneggiarlo o rubare informazioni.",,
 Stampante,Dispositivo che stampa su carta documenti o immagini che hai nel computer.,,images/printer.webp
