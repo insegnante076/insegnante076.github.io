@@ -2,30 +2,48 @@
 #vocabulary-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Increased size */
-    gap: 20px;
+    gap: 30px; /* Increased gap between cards */
     padding: 20px;
 }
 
 .vocabulary-card {
     background-color: #f5f5f5;
     border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px; /* Slightly increased padding */
+    border-radius: 12px; /* Rounded corners */
+    padding: 20px; /* Generous padding */
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added subtle shadow */
+    max-width: 100%;
+    min-height: 250px; /* Ensuring a consistent card height */
 }
 
 .vocabulary-card:hover {
     transform: translateY(-10px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15); /* Elevated shadow on hover */
 }
 
 .vocabulary-card img {
-    max-width: 100%;
+    max-width: 80%;
+    height: auto;
     border-radius: 8px;
-    margin-bottom: 10px;
+    margin-bottom: 15px; /* Increased space below the image */
+}
+
+.vocabulary-card h2 {
+    font-size: 1.5rem;
+    font-weight: 700; /* Bold vocabulary term */
+    color: #333;
+    margin: 0 0 10px 0; /* Space below the term */
+}
+
+.vocabulary-card p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
 }
 
 /* Pagination Styling */
@@ -44,6 +62,7 @@
     margin: 0 10px;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
 .pagination-btn:hover {
