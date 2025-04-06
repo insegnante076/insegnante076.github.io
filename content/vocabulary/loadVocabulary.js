@@ -41,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>${term.meaning}</p>
                 </div>
             `;
+            termCard.addEventListener('click', () => openModal(term));
             vocabularyList.appendChild(termCard);
         });
     }
@@ -68,20 +69,44 @@ document.addEventListener('DOMContentLoaded', () => {
         button.textContent = label;
         button.classList.add('pagination-btn');
         button.disabled = isDisabled;
-    
+
         if (!isDisabled) {
             button.addEventListener('click', () => {
                 currentPage = targetPage;
                 renderPage(currentPage);
                 renderPagination();
-                
+
                 // Scroll to the vocabulary list
                 document.getElementById('list-top').scrollIntoView({ behavior: 'smooth', block: 'start' });
             });
         }
-    
+
         return button;
-    } 
+    }
+
+    // Open modal with selected term details
+    function openModal(term) {
+        const modal = document.getElementById('vocabulary-modal');
+        document.getElementById('modal-word').textContent = term.word;
+        document.getElementById('modal-image').src = term.image_path;
+        document.getElementById('modal-image').alt = term.word;
+        document.getElementById('modal-meaning').textContent = term.meaning;
+
+        modal.style.display = 'block';
+    }
+
+    // Close modal
+    document.querySelector('.close-btn').addEventListener('click', () => {
+        document.getElementById('vocabulary-modal').style.display = 'none';
+    });
+
+    // Close modal when clicking outside of it
+    window.addEventListener('click', (event) => {
+        const modal = document.getElementById('vocabulary-modal');
+        if (event.target === modal) {
+            modal.style.display = 'none';
+        }
+    });
 
     // Initial render
     renderPage(currentPage);
