@@ -7,25 +7,22 @@
     text-align: center;
     background-color: #ffffff;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 300px; /* Fixed width for consistent card size */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Space content evenly */
+    align-items: center; /* Center content horizontally */
+    overflow: hidden; /* Prevent content from overflowing the card */
 }
 
-.card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
-}
-
+/* Remove the fixed height for the card to allow it to grow dynamically */
 .card img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 15px;
-}
-
-.card h3 {
-    font-size: 1.6em;
-    margin-bottom: 12px;
-    font-weight: 600;
-    color: #333;
+    max-width: 100%; /* Ensure the image does not exceed the card's width */
+    max-height: 150px; /* Limit the image height */
+    object-fit: cover; /* Crop the image to fit within the dimensions */
+    border-radius: 8px; /* Add rounded corners to the image */
+    margin-bottom: 15px; /* Add spacing below the image */
+    flex-shrink: 0; /* Prevent the image from shrinking */
 }
 
 .card p {
@@ -33,14 +30,22 @@
     color: #666;
     margin-bottom: 15px;
     line-height: 1.5;
+    text-align: center;
+    flex-grow: 0; /* Prevent the paragraph from stretching */
+    overflow: visible; /* Ensure the text is fully visible */
+    text-overflow: unset; /* Remove ellipsis for long text */
+    white-space: normal; /* Allow text to wrap */
 }
 
+/* Styling for links inside cards */
 .card a {
     text-decoration: none;
     color: #007BFF;
     font-weight: 600;
     font-size: 1.1em;
     transition: color 0.3s ease;
+    align-self: center; /* Center the link at the bottom */
+    margin-top: auto; /* Push the link to the bottom of the card */
 }
 
 .card a:hover {
@@ -52,19 +57,20 @@
 #exercises-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
+    justify-content: center; /* Center cards in the container */
+    gap: 20px; /* Space between cards */
+    padding: 20px; /* Add padding around the container */
 }
 
 /* Responsive layout for mobile */
 @media (max-width: 768px) {
     #exercises-container {
         flex-direction: column;
-        align-items: center;
+        align-items: center; /* Center cards on smaller screens */
     }
 
     .card {
-        width: 90%;
+        width: 90%; /* Adjust card width for smaller screens */
         margin: 10px 0;
     }
 }
