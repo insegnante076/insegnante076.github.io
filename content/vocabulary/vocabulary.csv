@@ -27,6 +27,7 @@ Wi-Fi,"Una tecnologia che permette di connettersi a internet senza usare fili, t
 Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisione non è touchscreen. Uno smartphone sì.",0.3,images/15.webp
 Copia,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.webp
 Incolla,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.webp
+Taglia,"Togliere un file o un testo da un posto per metterlo in un altro. È come Copia, ma il contenuto originale viene spostato, non duplicato.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Toicon-icon-feather-cut.svg/640px-Toicon-icon-feather-cut.svg.png
 Drag and Drop (trascinare),"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
 Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.webp
 Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.webp
