@@ -91,6 +91,26 @@
     background-color: #0056b3;
 }
 
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 6px; /* Reduced padding */
+    text-align: left;
+    font-size: 1.3rem; /* Reduced text size */
+}
+th {
+    background-color: #f4f4f4;
+    font-size: 1.5rem; /* Slightly larger for headers */
+}
+.table-image {
+    max-width: 150px; /* Increased image size */
+    height: auto;
+}
+
 /* Modal Styling */
 .modal {
     display: none; /* Hidden by default */
