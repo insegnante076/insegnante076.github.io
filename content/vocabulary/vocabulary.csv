@@ -4,6 +4,8 @@ Icona,"Un piccolo simbolo che rappresenta un programma, un file o una funzione n
 Zoom,"Serve per ingrandire o rimpicciolire qualcosa: una pagina, una immagine, ecc.",0.3,images/zoom.gif
 Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggetti, aprire, trascinare.",0.3,images/left-click.webp
 Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
+Seleziona,"Quando clicchi (col tasto sinistro) su un oggetto (come un'icona o un file) per evidenziarlo e poterci fare qualcosa.",0.3,images/select.gif
+Selezione multipla,"Quando tieni premuto il tasto sinistro del mouse e trascini per creare un rettangolo che include più oggetti da selezionare tutti insieme.",0.3,images/multi-select.gif
 Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
 File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.webp
 File Explorer,"Il programma che permette di vedere i file e le cartelle del computer, per trovare, aprire, copiare o spostare quello che c'è nel pc.", 0.3,images/file-explorer.webp
@@ -23,8 +25,8 @@ Motore di ricerca,"Un sito web che ti aiuta a trovare informazioni su internet. 
 Scheda (tab),"Una parte della finestra di un programma (come un browser) che ti permette di aprire più pagine contemporaneamente.",0.4,images/tab.webp
 Wi-Fi,"Una tecnologia che permette di connettersi a internet senza usare fili, tramite onde radio.",0.4,images/14.webp
 Touchscreen,"Schermo che si può controllare toccando con le dita. Una televisione non è touchscreen. Uno smartphone sì.",0.3,images/15.webp
-Copiare,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.webp
-Incollare,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.webp
+Copia,"Fare una copia di un file o di un testo. Esempio: 'Copiare un file' significa fare una copia di un documento per usarlo o mandarlo a qualcun altro.",0.3,images/16.webp
+Incolla,"Mettere il file o il testo che hai copiato in un nuovo posto.",0.3,images/17.webp
 Drag and Drop (trascinare),"Spostare qualcosa sullo schermo prendendolo con il mouse e spostandolo in un altro punto. Esempio: Trascina una foto dalla tua cartella alla finestra di un programma per caricarla.",0.4,images/drag.gif
 Software (programma),"I programmi che permettono al computer di fare delle cose, come scrivere un documento o navigare in internet.",0.3,images/1.webp
 Email,"Un messaggio che invii tramite Internet. Bisogna avere un account per poter mandare una email. Si possono avere account con Google, Yahoo, Libero, etc.",0.4,images/18.webp
