@@ -6,6 +6,7 @@ Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggett
 Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
 Seleziona,"Quando clicchi (col tasto sinistro) su un oggetto (come un'icona o un file) per evidenziarlo e poterci fare qualcosa.",0.3,images/select.gif
 Selezione multipla,"Quando tieni premuto il tasto sinistro del mouse e trascini per creare un rettangolo che include più oggetti da selezionare tutti insieme.",0.3,images/multi-select.gif
+Selezione testo,"Quando trascini il mouse su del testo per evidenziarlo. Serve per copiarlo, tagliarlo o modificarlo.",0.3,images/text-select.gif
 Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
 File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.webp
 File Explorer,"Il programma che permette di vedere i file e le cartelle del computer, per trovare, aprire, copiare o spostare quello che c'è nel pc.", 0.3,images/file-explorer.webp
@@ -48,10 +49,10 @@ Geo-localizzazione,"Tecnologia che permette di sapere dove ci troviamo.",0.5,ima
 Download (scaricare),"Scaricare un file da Internet al tuo dispositivo.",0.3,images/33.webp
 Upload (caricare),"Caricare un file dal tuo dispositivo su Internet.",0.3,images/34.webp
 Hotspot Wi-Fi,"Funzione che crea una rete Wi-Fi per condividere la connessione internet con altri dispositivi. Così gli altri che non hanno internet con la loro SIM card, possono usare la tua connessione.",0.5,images/35.webp
-Shift,"Un tasto che permette di scrivere lettere maiuscole o inserire altri simboli.",0.3,images/shift.webp
+Shift (maiusc),"Un tasto che permette di scrivere lettere maiuscole o inserire altri simboli.",0.3,images/shift.webp
 Spazio,"Un tasto che inserisce uno spazio tra le parole quando si scrive.",0.3,images/spacebar.webp
 Scorciatoie (Shortcuts),"Combinazioni di tasti che permettono di eseguire rapidamente azioni, come copiare, incollare o salvare un file.",0.3,images/shortcuts.webp
-Ctrl,"Un tasto usato insieme ad altri per eseguire scorciatoie, come copiare, incollare, annullare.",0.3,images/ctrl.webp
+Ctrl (control),"Un tasto usato insieme ad altri per eseguire scorciatoie, come copiare, incollare, annullare.",0.3,images/ctrl.webp
 Cursore,"Un simbolo che mostra la posizione del mouse o dove si sta digitando su uno schermo.",0.3,images/cursor.gif
 Frecce,"I tasti che permettono di muovere il cursore su, giù, a sinistra o a destra.",0.3,images/arrow-keys.webp
 Backspace,"Un tasto che cancella il carattere a sinistra del cursore.",0.3,images/backspace.webp
