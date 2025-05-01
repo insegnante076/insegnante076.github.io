@@ -44,6 +44,11 @@ Bluetooth,"Tecnologia che permette di connettere dispositivi senza fili, come au
 Wireless,"Tecnologia che permette di inviare dati senza usare fili. Ad esempio il Wi-Fi o il Bluetooth.",0.4,images/28.webp
 Dispositivo (device),"Un oggetto elettronico (un telefono, un computer, un tablet, uno smartwatch, etc.) che usi per accedere a internet o fare altre attività digitali",0.3,images/29.webp
 Microfono,"Dispositivo che cattura i suoni.",0.3,images/30.webp
+USB,"Un tipo di connettore usato per collegare dispositivi come chiavette, mouse, tastiere o stampanti al computer.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/USB-C_cable_2017_A.jpg/640px-USB-C_cable_2017_A.jpg
+Chiavetta USB,"Un piccolo dispositivo che si collega al computer tramite USB e serve per salvare e trasportare file.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lexar_USB_stick_8_GB-0286.jpg/640px-Lexar_USB_stick_8_GB-0286.jpg
+HDMI,"Un cavo usato per collegare il computer alla TV o a uno schermo, trasmette audio e video.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/HDMI_connector-male-ar_5to4-fs_PNr%C2%B00270.jpg/640px-HDMI_connector-male-ar_5to4-fs_PNr%C2%B00270.jpg
+VGA,"Un cavo più vecchio per collegare il computer a uno schermo. Trasmette solo il video, non l'audio.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vga-cable.jpg/640px-Vga-cable.jpg
+Jack audio,"Un piccolo connettore per cuffie o altoparlanti, usato per ascoltare l'audio.",0.3,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Klinkenstecker_5-polig.jpg/1920px-Klinkenstecker_5-polig.jpg
 Condivisione (share),"Funzione che ti permette di inviare file, foto o link ad altri.",0.3,images/31.webp
 Geo-localizzazione,"Tecnologia che permette di sapere dove ci troviamo.",0.5,images/32.webp
 Download (scaricare),"Scaricare un file da Internet al tuo dispositivo.",0.3,images/33.webp
