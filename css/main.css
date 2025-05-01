@@ -48,3 +48,25 @@ a:hover {
 .back-btn:focus {
     outline: none; /* Rimuove il bordo di focus predefinito */
 }
+
+.highlight-box {
+    border: 2px solid #007ACC;
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.playlist-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.playlist-button:hover {
+    background-color: #cc0000;
+}
