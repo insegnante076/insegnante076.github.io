@@ -6,7 +6,7 @@ Tasto sinistro,"Il tasto principale del mouse, utilizzato per selezionare oggett
 Tasto destro,"Il tasto del mouse che apre un menu con opzioni aggiuntive, come copiare, incollare, rinominare, ecc.",0.3,images/right-click.webp
 Seleziona,"Quando clicchi (col tasto sinistro) su un oggetto (come un'icona o un file) per evidenziarlo e poterci fare qualcosa.",0.3,images/select.gif
 Selezione multipla,"Quando tieni premuto il tasto sinistro del mouse e trascini per creare un rettangolo che include più oggetti da selezionare tutti insieme.",0.3,images/multi-select.gif
-Selezione testo,"Quando trascini il mouse su del testo per evidenziarlo. Serve per copiarlo, tagliarlo o modificarlo.",0.3,images/text-select.gif
+Selezione testo,"Quando tieni premuto il tasto sinistro del mouse sul testo e trascini per per evidenziarlo. Serve per copiarlo, tagliarlo o modificarlo.",0.3,images/text-select.gif
 Doppio click,"Quando premi due volte rapidamente il tasto sinistro del mouse per aprire un programma o un file.",0.3,images/double-click.gif
 File,"Un documento, una foto, un video, etc. Tutte queste cose si chiamano 'files' quando sono dentro un dispositivo",0.3,images/4.webp
 File Explorer,"Il programma che permette di vedere i file e le cartelle del computer, per trovare, aprire, copiare o spostare quello che c'è nel pc.", 0.3,images/file-explorer.webp
